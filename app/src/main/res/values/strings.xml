@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TownPin</string>
+    <string name="copyright">Copyright &#169; Esprit De Corps Oct/2022</string>
+    <string name="about_text">This application helps user to finds any nearest town based on their current location</string>
+    <string name="developer">Developer Detail:</string>
+    <string name="mainDeveloper">MUHAMMAD YAMIN BIN IBRAHIM (2020459282)</string>
+    <string name="assistanceDeveloper">SHARIFAH NADZIRAH BINTI SYED ADNAN (2020865812)</string>
+    <string name="editor1">MUHAMMAD ZULHELMI BIN MUHAMMAD OTHMAN (2020618198)</string>
+    <string name="editor2">NURUL FAZIRA BINTI NORWARDI (2020897306)</string>
+    <string name="editor3">No</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="myText"> <a href= "https://github.com"> Source code </a> </string>
+</resources>
